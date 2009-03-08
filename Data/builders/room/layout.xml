@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object name="layout">
+  <Column>
+    <Row script="true">Name: {this.get("attributes").get("name")}</Row>
+    <Row script="false">Color:</Row>
+  </Column>
+</Object>
