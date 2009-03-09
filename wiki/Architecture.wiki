@@ -1,13 +1,9 @@
-#summary One-sentence summary of this page.
+#summary Overview of the application architecture.
 
-= Introduction =
+*Server Engine*
 
-Architecture Overview
+*Data*
 
+*Interfaces*
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Commands*
