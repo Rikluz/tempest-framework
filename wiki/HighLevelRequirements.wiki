@@ -1,6 +1,7 @@
 #summary High-Level Feature List
-
+----
 _This is not the final feature list for the framework.  It is only a straw-man feature list to generate discussion._
+----
 
 *Rooms*
   * Belong to a collection called a zone.
