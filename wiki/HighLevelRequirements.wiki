@@ -1,13 +1,26 @@
-#summary Outline of the application's features.
+#summary High-Level Feature List
 
-= Introduction =
+_This is not the final feature list for the framework.  It is only a straw-man feature list to generate discussion._
 
-Add your content here.
+*Rooms*
+  * Belong to a collection called a zone.
+  * Directions: north, east, south, west, up, and down.
+  * Online builder.
 
+*Characters*
+  * System for assigning privileges (e.g. builder, game-master, guild-master, etc).
 
-= Details =
+*Non-player Characters*
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Skills & Spells*
+
+*Items*
+
+*Combat*
+
+*Quests*
+
+*Professions*
+
+*Interface*
+  * Default: Robust ANSI and standard terminal interfaces.
