@@ -1,9 +1,0 @@
-#summary Overview of the application architecture.
-
-*Server Engine*
-
-*Data*
-
-*Interfaces*
-
-*Commands*
